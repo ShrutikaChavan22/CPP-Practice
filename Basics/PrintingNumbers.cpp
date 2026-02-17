@@ -1,9 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-   cout<<4<<endl;
-   cout<<"4"<<endl;
-   cout<<4+3<<endl;
-   cout<<"4*3"<<endl;
-   return 0;
+   int x;//declaration
+   x=5;//initialization
+   cout<<"Value of x:"<<x;
+   int y=8;//both
+   cout<<"Value of Y:"<<y;
+   cout<<"Addition"<<x+y;
 }
