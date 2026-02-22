@@ -1,4 +1,4 @@
-//power function logarithmic
+//calculate power using logarithmic and recursion
 #include<iostream>
 using namespace std;
 int powlog(int a,int b){
